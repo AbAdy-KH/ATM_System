@@ -1,0 +1,56 @@
+﻿  ATM system - (Application).cpp
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsInputValidate.h(92,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsInputValidate.h(92,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsInputValidate.h(92,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsString.h(20,18): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsString.h(31,19): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsBankClient.h(172,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+      C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsBankClient.h(24,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsBankClient.h(33,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsBankClient.h(34,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsBankClient.h(35,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsUser.h(154,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+      C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsUser.h(21,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsDepositScreen.h(44,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsWithdraw.h(46,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsTotalBalancesScreen.h(47,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsUpdateCurrencyRateScreen.h(63,21): warning C4129: '=': unrecognized character escape sequence
+  (compiling source file 'ATM%20system%20-%20(Application).cpp')
+  
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsBankClient.h(391,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\ATM system - (Application)\clsUser.h(339,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  ATM system - (Application).vcxproj -> C:\Users\Abd-Alrhman\OneDrive - jadara.edu.jo\Programming\visual studio\C++\PROJECTS File\ATM system - (Application)\x64\Debug\ATM system - (Application).exe
